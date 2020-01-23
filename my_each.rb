@@ -8,4 +8,3 @@ def my_each(a) # put argument(s) here
     end
   end
 end
-
