@@ -7,4 +7,5 @@ def my_each(a) # put argument(s) here
       i += 1
     end
   end
+  a
 end
